@@ -3,7 +3,8 @@ Private Aeza API Service
 ## About the project
 It is a web service project to manage the aeza website
 
-## Use - For Example:  
+## Example usage:
+
 ```php
 // Get Profile
 (new Service('c802375027b448787792b3ac29426f04'))->profileGet();
@@ -20,3 +21,8 @@ It is a web service project to manage the aeza website
   ]);
 
 ```
+
+## This code used aeza-net-sdk methods
+- [aeza-net-sdk]([https://github.com/alireza0/](https://github.com/AezaGroup/aeza-net-sdk))
+
+### [AEZA.NET](https://aeza.net/)
