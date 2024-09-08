@@ -22,7 +22,7 @@ It is a web service project to manage the aeza website
 
 ```
 
-## This code used aeza-net-sdk methods
-- [aeza-net-sdk]([https://github.com/alireza0/](https://github.com/AezaGroup/aeza-net-sdk])
+## This code used aeza-net-sdk methods:
+- [aeza-net-sdk]([https://github.com/alireza0/](https://github.com/alireza0/](https://github.com/AezaGroup/aeza-net-sdk))
 
 ### [AEZA.NET](https://aeza.net/)
